@@ -1,0 +1,10 @@
+{
+  "name": "node_script",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mongoose": "^6.4.6"
+  }
+}
